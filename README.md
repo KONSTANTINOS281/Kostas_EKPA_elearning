@@ -1,1 +1,1 @@
-# Kostas_EKPA_elearning
+# Example of README
